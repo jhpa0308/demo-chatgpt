@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .timer {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    width: 100px;
+    height: 50px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: darkgreen;
+  }
+  
